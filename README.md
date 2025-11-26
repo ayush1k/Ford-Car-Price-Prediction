@@ -46,7 +46,6 @@ git clone [https://github.com/ayush1k/Ford-Car-Price-Prediction.git](https://git
 cd Ford-Car-Price-Prediction
 
 
-(Note: Replace ayush1k/Ford-Car-Price-Prediction with your actual GitHub username and repository name.)
 
 2. Install Dependencies
 
@@ -88,17 +87,12 @@ Metric
 
 Result
 
+R-squared
+0.8396626991294074
+
 R-squared Score
+0.8387377808685319
 
-[Insert your R-squared score here]
-
-Mean Absolute Error (MAE)
-
-[Insert your MAE here]
-
-Example Prediction
-
-[Show one prediction vs. actual value]
 
 🔗 Connect with Me
 
